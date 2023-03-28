@@ -409,11 +409,12 @@ export default function Example() {
               <figure>
                 <blockquote className="mt-6 text-lg font-semibold text-white sm:text-xl sm:leading-8">
                   <p>
-                    “As an EMS provider Holdano B.V. is your strategic partner
-                    in producing the highest quality electronics. As a small
-                    company we offer great flexibility leading to the skill of
-                    quickly, accurately adapting to customer needs. We have
-                    short lines so that unnecessary delays are avoided."
+                    &quot;As an EMS provider Holdano B.V. is your strategic
+                    partner in producing the highest quality electronics. As a
+                    small company we offer great flexibility leading to the
+                    skill of quickly, accurately adapting to customer needs. We
+                    have short lines so that unnecessary delays are
+                    avoided.&quot;
                   </p>
                 </blockquote>
                 <figcaption className="mt-6 text-base text-white">
