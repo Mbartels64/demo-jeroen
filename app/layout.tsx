@@ -1,4 +1,6 @@
 import "./globals.css";
+import Footer from "@/components/Footer/footer";
+import Header from "@/components/Header/header";
 
 export const metadata = {
   title: "Holdano B.V.",
@@ -13,7 +15,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        <Header />
+        {children}
+        <Footer />
+      </body>
     </html>
   );
 }

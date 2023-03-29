@@ -1,9 +1,9 @@
-import Example from "@/components/mock-up";
+import HomePage from "@/components/mock-up";
 
 export default function Home() {
   return (
     <>
-      <Example />
+      <HomePage />
     </>
   );
 }
