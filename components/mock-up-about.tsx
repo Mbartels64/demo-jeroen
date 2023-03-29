@@ -178,29 +178,6 @@ export default function MockUpAbout() {
                     className="aspect-[7/5] w-[37rem] max-w-none rounded-2xl bg-gray-50 object-cover"
                   />
                 </div>
-                <div className="contents lg:col-span-2 lg:col-end-2 lg:ml-auto lg:flex lg:w-[37rem] lg:items-start lg:justify-end lg:gap-x-8">
-                  <div className="order-first flex w-64 flex-none justify-end self-end lg:w-auto">
-                    <img
-                      src="https://res.cloudinary.com/dzg1ekme7/image/upload/v1680113177/Jeroen/WhatsApp_Image_2023-03-28_at_11.20.52_2_ttucp7.jpg"
-                      alt=""
-                      className="aspect-[4/3] w-[24rem] max-w-none flex-none rounded-2xl bg-gray-50 object-cover"
-                    />
-                  </div>
-                  <div className="flex w-96 flex-auto justify-end lg:w-auto lg:flex-none">
-                    <img
-                      src="https://res.cloudinary.com/dzg1ekme7/image/upload/v1680113154/Jeroen/WhatsApp_Image_2023-03-28_at_11.26.31_cmfbcy.jpg"
-                      alt=""
-                      className="aspect-[7/5] w-[37rem] max-w-none flex-none rounded-2xl bg-gray-50 object-cover"
-                    />
-                  </div>
-                  <div className="hidden sm:block sm:w-0 sm:flex-auto lg:w-auto lg:flex-none">
-                    <img
-                      src="https://res.cloudinary.com/dzg1ekme7/image/upload/v1680113176/Jeroen/WhatsApp_Image_2023-03-28_at_11.20.52_w8x7gm.jpg"
-                      alt=""
-                      className="aspect-[4/3] w-[24rem] max-w-none rounded-2xl bg-gray-50 object-cover"
-                    />
-                  </div>
-                </div>
               </div>
             </div>
           </div>
